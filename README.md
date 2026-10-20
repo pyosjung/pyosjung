@@ -147,10 +147,6 @@ https://github.com/pyosjung/hdae-cv-project1
 
 `Unreal Engine 5` `Blueprint` `Smart Factory` `Digital Twin`
 
-### Cloud
-
-`AWS`
-
 ---
 
 ## What I Focus On
@@ -185,28 +181,6 @@ Application
 - Event-driven Architecture
 - AI + Manufacturing
 - DX / AX
-
----
-
-## Certification
-
-- AWS Certified Solutions Architect – Associate
-
----
-
-## Current Goal
-
-제조 현장에서 발생하는 데이터를 안정적으로 수집·처리하고  
-이를 생산성과 운영 효율 향상으로 연결할 수 있는 개발자가 되는 것이 목표입니다.
-
-현재 다음 기술을 중심으로 역량을 확장하고 있습니다.
-
-`Java / Spring`  
-`Python Backend`  
-`Kafka / MQTT`  
-`PostgreSQL`  
-`Docker / Kubernetes`  
-`Cloud Architecture`
 
 ---
 
