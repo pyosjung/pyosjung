@@ -1,4 +1,4 @@
-# 👋 안녕하세요, 시스템을 연결하고 데이터 흐름을 설계하는 개발자 표성중입니다.
+# 안녕하세요, 시스템을 연결하고 데이터 흐름을 설계하는 개발자 표성중입니다.
 
 정보통신공학을 전공하며 **디바이스에서 발생한 데이터를 수집하고, 서버와 데이터베이스를 거쳐 사용자에게 의미 있는 정보로 전달하는 시스템**에 관심을 가지고 개발 경험을 쌓아왔습니다.
 
@@ -9,9 +9,9 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🏭 Automotive Body Shop Digital Twin
+### Automotive Body Shop Digital Twin
 
 **Unreal Engine 5 기반 자동차 차체공정 디지털트윈 시스템**
 
@@ -59,7 +59,7 @@ MySQL / FastAPI / OEE
 
 ---
 
-### 👁️ Interactive Alarm Vision System
+### Interactive Alarm Vision System
 
 **Computer Vision 기반 미션형 알람 서비스**
 
@@ -95,12 +95,12 @@ Alarm Stop
 
 `Next.js` `TypeScript` `Python` `FastAPI` `TensorFlow` `Keras` `MediaPipe` `EfficientNetB2`
 
-🔗 Repository  
+Repository  
 https://github.com/pyosjung/hdae-cv-project1
 
 ---
 
-### 🚗 Parking Hit-and-Run Detection System
+### Parking Hit-and-Run Detection System
 
 **Raspberry Pi 기반 주차 차량 충돌 감지 및 알림 시스템**
 
@@ -121,7 +121,7 @@ https://github.com/pyosjung/hdae-cv-project1
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -153,7 +153,7 @@ https://github.com/pyosjung/hdae-cv-project1
 
 ---
 
-## 💡 What I Focus On
+## What I Focus On
 
 제가 프로젝트에서 중요하게 생각하는 것은 개별 기능보다 **전체 시스템의 연결 구조**입니다.
 
@@ -175,7 +175,7 @@ Application
 
 ---
 
-## 🎯 Interests
+## Interests
 
 - Smart Factory
 - Digital Twin
@@ -188,13 +188,13 @@ Application
 
 ---
 
-## 📚 Certification
+## Certification
 
 - AWS Certified Solutions Architect – Associate
 
 ---
 
-## 🚀 Current Goal
+## Current Goal
 
 제조 현장에서 발생하는 데이터를 안정적으로 수집·처리하고  
 이를 생산성과 운영 효율 향상으로 연결할 수 있는 개발자가 되는 것이 목표입니다.
@@ -210,7 +210,7 @@ Application
 
 ---
 
-## 📫 Contact
+## Contact
 
 GitHub  
 https://github.com/pyosjung
