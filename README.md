@@ -34,8 +34,7 @@
   - RAG 기반 알람 분석 결과를 전달하는 메일링 기능 개발
 - **보여주는 역량:** 제조 설비 데이터의 흐름 이해, Backend API 구현, AI 기능과 업무 시스템의 연계
 
-**Repository:** FactoryEye / BS-SCADA *(공개 저장소 주소 연결 예정)*  
-<!-- TODO: 정확한 FactoryEye(BS-SCADA) 저장소 URL을 확인하고 위 줄에 링크 추가 -->
+**Repository:** [FactoryEye / BS-SCADA *(공개 저장소 주소 연결 예정)*  ](https://github.com/sleeping-6eauty/BS-SCADA)
 
 ### 02. Auto BOM Inventory — 제조 자재·재고 관리 시스템
 
