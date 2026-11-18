@@ -17,10 +17,10 @@
 
 | 프로젝트 | 한 줄 설명 | 내 역할 | 핵심 기술 |
 |---|---|---|---|
-| **[LineMind](https://github.com/pyosjung/LineMind)** *(개인·진행 중)* | 미니 MES + 설비 비가동 원인을 답하는 AI 에이전트 | 단독 설계·개발 | Spring Boot, MQTT/OPC UA, Docker, LLM Tool Calling |
-| **[FactoryEye](https://github.com/pyosjung/BS-SCADA)** | 설비 모니터링 + RAG 알람 분석 SCADA PoC | 설비 시뮬레이션, 알람 API, RAG 메일링 | Spring Boot, MySQL, MQTT, Node-RED, RAG |
-| **[자동차 차체공정 디지털트윈](https://github.com/pyosjung/Digital-Twin-Project)** | 스테이션·AGV·컨베이어·로봇 상태를 3D로 동기화 | **팀장**, 생산 시뮬레이션, DB 설계, 로봇암 BP | UE5 Blueprint, Node-RED, MySQL, MQTT |
-| **[Auto BOM Inventory](https://github.com/pyosjung/auto-bom-inventory)** | 수주–BOM–자재–재고를 잇는 관리 시스템 | 자재관리 화면, 단가·재고 테이블 | Spring Boot, MyBatis, MySQL, Vue.js |
+| **LineMind** *(개인·진행 중, 저장소 공개 예정)* | 미니 MES + 설비 비가동 원인을 답하는 AI 에이전트 | 단독 설계·개발 | Spring Boot, MQTT/OPC UA, Docker, LLM Tool Calling |
+| **[FactoryEye](https://github.com/sleeping-6eauty/BS-SCADA)** | 설비 모니터링 + RAG 알람 분석 SCADA PoC | 설비 시뮬레이션, 알람 API, RAG 메일링 | Spring Boot, MySQL, MQTT, Node-RED, RAG |
+| **[자동차 차체공정 디지털트윈](https://github.com/sleeping-6eauty/Digital-Twin-Project)** | 스테이션·AGV·컨베이어·로봇 상태를 3D로 동기화 | **팀장**, 생산 시뮬레이션, DB 설계, 로봇암 BP | UE5 Blueprint, Node-RED, MySQL, MQTT |
+| **[Auto BOM Inventory](https://github.com/sleeping-6eauty/auto-bom-inventory)** | 수주–BOM–자재–재고를 잇는 관리 시스템 | 자재관리 화면, 단가·재고 테이블 | Spring Boot, MyBatis, MySQL, Vue.js |
 | **[4번째 프로젝트명]** <!-- 채워 넣기 --> | | | |
 
 ---
@@ -57,7 +57,7 @@ flowchart LR
 
 **결과**: 알람 발생부터 원인 안내 메일까지 평균 __초 <!-- 측정 후 입력 -->
 `Spring Boot` `MySQL` `MQTT` `Node-RED` `Python` `RAG`
-▶️ [시연 영상](https://) · 📄 [상세 README](https://github.com/pyosjung/BS-SCADA)
+▶️ [시연 영상](https://) · 📄 [상세 README](https://github.com/sleeping-6eauty/BS-SCADA)
 
 ---
 
@@ -72,7 +72,7 @@ flowchart LR
 
 **트러블슈팅**: <!-- 예: 3D 동기화 지연, 상태값 불일치 등 실제 사례 1~2개 -->
 `Unreal Engine 5` `Blueprint` `Node-RED` `MySQL` `MQTT`
-▶️ [시연 영상](https://) · 📄 [상세 README](https://github.com/pyosjung/Digital-Twin-Project)
+▶️ [시연 영상](https://) · 📄 [상세 README](https://github.com/sleeping-6eauty/Digital-Twin-Project)
 
 ---
 
@@ -82,14 +82,14 @@ flowchart LR
 
 **내가 한 일**: 자재관리 화면, 단가·재고 테이블 설계 및 구현
 `Spring Boot` `MyBatis` `MySQL` `Vue.js`
-📄 [저장소](https://github.com/pyosjung/auto-bom-inventory) <!-- 팀원 저장소를 본인 계정으로 fork 후 링크 -->
+📄 [저장소](https://github.com/sleeping-6eauty/auto-bom-inventory)
 
 ---
 
 ### 4. LineMind — 미니 MES + 비가동 원인 분석 AI 에이전트 (개인 · 진행 중)
 교육 과정이 끝난 뒤 **혼자 처음부터 끝까지** 만드는 프로젝트입니다.
 작업지시·생산실적·OEE·LOT 추적이 되는 미니 MES를 만들고, *"어제 2라인 OEE가 왜 떨어졌어?"* 같은 질문에 **LLM 에이전트가 MES DB를 직접 조회해 근거와 함께 답하게** 합니다.
-📄 [저장소](https://github.com/pyosjung/LineMind)
+📄 저장소 공개 예정 <!-- 저장소 만든 뒤 https://github.com/pyosjung/LineMind 링크로 교체 -->
 
 ---
 
