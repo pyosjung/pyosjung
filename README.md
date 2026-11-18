@@ -18,9 +18,9 @@
 | 프로젝트 | 한 줄 설명 | 내 역할 | 핵심 기술 |
 |---|---|---|---|
 | **LineMind** *(개인·진행 중, 저장소 공개 예정)* | 미니 MES + 설비 비가동 원인을 답하는 AI 에이전트 | 단독 설계·개발 | Spring Boot, MQTT/OPC UA, Docker, LLM Tool Calling |
-| **[FactoryEye](https://github.com/sleeping-6eauty/BS-SCADA)** | 설비 모니터링 + RAG 알람 분석 SCADA PoC | 설비 시뮬레이션, 알람 API, RAG 메일링 | Spring Boot, MySQL, MQTT, Node-RED, RAG |
-| **[자동차 차체공정 디지털트윈](https://github.com/sleeping-6eauty/Digital-Twin-Project)** | 스테이션·AGV·컨베이어·로봇 상태를 3D로 동기화 | **팀장**, 생산 시뮬레이션, DB 설계, 로봇암 BP | UE5 Blueprint, Node-RED, MySQL, MQTT |
-| **[Auto BOM Inventory](https://github.com/sleeping-6eauty/auto-bom-inventory)** | 수주–BOM–자재–재고를 잇는 관리 시스템 | 자재관리 화면, 단가·재고 테이블 | Spring Boot, MyBatis, MySQL, Vue.js |
+| **[FactoryEye](https://github.com/pyosjung/BS-SCADA)** | 설비 모니터링 + RAG 알람 분석 SCADA PoC | 설비 시뮬레이션, 알람 API, RAG 메일링 | Spring Boot, MySQL, MQTT, Node-RED, RAG |
+| **[자동차 차체공정 디지털트윈](https://github.com/pyosjung/Digital-Twin-Project)** | 스테이션·AGV·컨베이어·로봇 상태를 3D로 동기화 | **팀장**, 생산 시뮬레이션, DB 설계, 로봇암 BP | UE5 Blueprint, Node-RED, MySQL, MQTT |
+| **[Auto BOM Inventory](https://github.com/pyosjung/auto-bom-inventory)** | 수주–BOM–자재–재고를 잇는 관리 시스템 | 자재관리 화면, 단가·재고 테이블 | Spring Boot, MyBatis, MySQL, Vue.js |
 | **[4번째 프로젝트명]** <!-- 채워 넣기 --> | | | |
 
 ---
